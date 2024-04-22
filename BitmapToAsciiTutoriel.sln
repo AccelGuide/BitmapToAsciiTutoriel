@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitmapToAsciiTutoriel", "BitmapToAsciiTutoriel\BitmapToAsciiTutoriel.csproj", "{DC7EFB4F-1F09-45CA-AC45-225F45D9ACD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7EFB4F-1F09-45CA-AC45-225F45D9ACD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7EFB4F-1F09-45CA-AC45-225F45D9ACD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7EFB4F-1F09-45CA-AC45-225F45D9ACD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7EFB4F-1F09-45CA-AC45-225F45D9ACD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8E5F22-ABA6-4588-8541-CCD1A70E1400}
+	EndGlobalSection
+EndGlobal
